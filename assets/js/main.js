@@ -39,7 +39,7 @@
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + 'Luottoystävä' + '</span>' +
+					'<span class="title">' + 'Hilkka Mehtätalo' + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);
